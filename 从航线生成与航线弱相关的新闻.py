@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 import os
 import ast
-import re  # 新增正则表达式模块
+import re  
 
 # 读取新闻数据
 news_file = "news-process.csv"
