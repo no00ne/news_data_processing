@@ -1,0 +1,109 @@
+Unnamed: 0,id,title,content,date,time,slug,category,assets,timestamp,links
+1225,850,Korean tanker in Gulf of Guinea – missing? ,"Product tanker B OCEAN is said to be missing, with all communications lost, since Nov 23, in Gulf of Ginea, according to Trade Winds report https://www.tradewindsnews.com/tankers/masters-alerted-after-contact-lost-with-sk-shipping-tanker-off-west-africa/2-1-1360892
+Piracy reporting body Maritime Domain Awareness for Trade Gulf of Guinea (MDAT GoG) suspects possible piracy. 
+According to AIS and track, tanker left Abijan on Oct 2, sailed to Freetown anchora, Sierra Leone, left it and went to area in Gulf of Guinea, then returned to Freetown anchorage, to leave it again on Nov 17. tanker returned to the same area and was either moving in legs or drifting. Last AIS pos was received at 2300 UTC Nov 23",2022-11-24,17:18:48,korean-tanker-in-gulf-of-guinea-missing,Maritime Security,"[{'id': '444', 'attributes': {'assetId': 713353, 'assetName': 'B.OCEAN', 'assetType': 'vessel'}}]",2022-11-24 17:18:48+00:00,[]
+3502,2775,"Chinese fishing vessel attacked, crew wounded, Sierra Leone","Chinese longliner SHENGHAI2 was attacked by armed persons early in the morning Aug 21 on Freetown anchorage, Sierra Leone. Crew reportedly, tried to thwart an attack with ensuing fight, several crew were injured, including some seriously wounded. Pirates fled the ship and area after Navy or Coast Guard sent a team to assist crew.",2020-08-22,18:14:00,chinese-fishing-vessel-attacked-crew-wounded-sierra-leone,Maritime Security,"[{'id': '1893', 'attributes': {'assetId': 2721134, 'assetName': 'SHENGHAI2', 'assetType': 'vessel'}}]",2020-08-22 18:14:00+00:00,[]
+5920,10156,"Turkish cargo ship sank in the Atlantic, crew rescued by Polish freighter ","Turkish general cargo ship KOZA issued distress signal on Dec 7, some 100 nm south of Freetown, Sierra Leone. Master reported water ingress in engine room, crew preparing to abandon sinking ship. Nearest Polish cargo ship ESL EUROPA (IMO 9333553, dwt 17300, manager EuroAfrica Services Poland) steamed to assist, picking up 13 crew, two more – Master and Chief Officer, were rescued by bulk carrier TD TOKYO. (IMO 9726566). Rescued crew were to be disembarked in Freetown. No information on KOZA fate and her present status. Photos provided by Polish freighter crew. 
+
+
+
+
+
+
+
+
+",2017-12-08,16:04:04,turkish-cargo-ship-sank-in-the-atlantic-crew-rescued-by-poli,Accidents,"[{'id': '7502', 'attributes': {'assetId': 711723, 'assetName': 'KOZA', 'assetType': 'vessel'}}, {'id': '7501', 'attributes': {'assetId': 225696, 'assetName': 'ESL EUROPA', 'assetType': 'vessel'}}, {'id': '7503', 'attributes': {'assetId': 4356972, 'assetName': 'ATALANTA', 'assetType': 'vessel'}}]",2017-12-08 16:04:04+00:00,['[koza1.jpg](https://media.fleetmon.com/maritimenews/koza1.jpg)']
+9947,10844,​Maersk Restructures its West Africa WAF Services,"Maersk closes its transshipment hubs West Africa service WAF7. The last sailing of the service will be executed by the vessel HANSA OLDENBURG who will phase out on 23rd April. The service deployed 3 vessels on a 7 day frequency. It had an average service capacity of 1,700 TEU per week.
+
+
+
+    To ensure coverage of the port of Freetown, it will be added to the port rotation of Maersk’s WAF13 service. This service will also receive a new vessel in May, deploying a total of 4 vessels on a 7 day frequency and a 28 day-rotation. WAF 13 has an average service capacity of 2,475 TEU per week. The new call at Freetown will be first inaugurated by the vessel SAFMARINE NUBA on 28th April.
+
+
+
+    The port of Monrovia will be covered by the WAF1 service from 27th April onwards whilst Cotonou is withdrawn from the rotation. The port of Takoradi is added to the rotation as well and will be called in alteration with San Pedro. This new route will be inaugurated by the vessel JPO AQUARIUS on 17th April from Tanger Med. WAF1 currently deploys 6 vessels on a weekly frequency and has an average service capacity of 2,490 TEU per week.
+
+
+
+    The WAF5+ service undergoes some changes to its port rotation in May. The port call at Takoradi is withdrawn while Bissau is added to the port rotation. The new port call will be inaugurated by the vessel THOMAS MAERSK on 15th May. In addition to these changes, WAF5+ will phase a new vessel into the service in May. It will then deploy 4 vessels on a 14 day-frequency and a 56 day-rotation with an average weekly service capacity of 1,000TEU.
+
+
+
+    Maersk’s WAF9 service also experiences modifications to its port rotation, by introducing a call at Dakar to its rotation. This port will be first called by the vessel THUROE MAERSK on 12th April. Similarly as the WAF5+ service, WAF9 will also phase in a new vessel, deploying a total of 3 vessels as of mid-May. The service will run on a 14 day-frequency and a 42 day-rotation with an average service capacity of 700 TEU per week.
+
+
+
+    WAF7: Tanger Med - Algeciras - Monrovia - Freetown - Tanger Med
+
+
+
+    WAF13: Algeciras - Tanger Med - Dakar - Conakry - Freetown (new) - Dakar – Algeciras
+
+
+
+    WAF1: Tanger Med - Algeciras - Monrovia (new)- Abidjan - Onne - San Pedro (in alternance with Takoradi) - Takoradi (new) (in alternance with San Pedro) - Tanger Med
+
+
+
+    WAF5+: Tanger Med - Algeciras - Luanda - Lobito - Bissau (new) - Tanger Med
+
+
+
+    WAF9: Tanger Med - Lisbon - Leixoes - Algeciras - Dakar (new) - Mindelo - Porto Praia - Bissau - Tanger Med
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",2014-04-15,10:06:59,maersk-restructures-its-west-africa-waf-services,Container Shipping,"[{'id': '8378', 'attributes': {'assetId': 204369, 'assetName': 'MSC REETII', 'assetType': 'vessel'}}, {'id': '8376', 'attributes': {'assetId': 688023, 'assetName': 'MAERSK NUBA', 'assetType': 'vessel'}}, {'id': '8377', 'attributes': {'assetId': 158440, 'assetName': 'THOMAS MAERSK', 'assetType': 'vessel'}}]",2014-04-15 10:06:59+00:00,"['[2014-04-15_Maersk_Restructures_its_West_Africa_WAF_Services_pdf__Seite_2_von_3__1.png](https://media.fleetmon.com/maritimenews/2014-04-15_Maersk_Restructures_its_West_Africa_WAF_Services_pdf__Seite_2_von_3__1.png)', '[2014-04-15_Maersk_Restructures_its_West_Africa_WAF_Services_pdf__Seite_3_von_3_.png](https://media.fleetmon.com/maritimenews/2014-04-15_Maersk_Restructures_its_West_Africa_WAF_Services_pdf__Seite_3_von_3_.png)', '[2014-04-15_Maersk_Restructures_its_West_Africa_WAF_Services_pdf__Seite_3_von_3__1.png](https://media.fleetmon.com/maritimenews/2014-04-15_Maersk_Restructures_its_West_Africa_WAF_Services_pdf__Seite_3_von_3__1.png)']"
+9966,8251,CMA CGM modifies its Africa Services NOURA Express and PC North,"As of 4th April, CMA CGM introduces a new call at Mombasa (Kenya) to its Middle East - Somalia service Noura Express. The service deploys the 1,850 TEU vessel CMA CGM KAILAS every 21 days, giving a weekly service capacity of 617TEU.
+
+
+
+    Mombasa is currently the largest and busiest international seaport on the East African Coast. Due to its strategically superior positioning on the African continent it is a major port call for most International Shipping Lines. The world’s largest carrier Maersk participates on 5 services calling at Mombasa, while the second largest carrier, MSC calls at Mombasa on 3 different services. The NOURA EXPRESS service is the third service for CMA CGM to call at Mombasa. Currently the ASEA and SWAHILI EXPRESS services, which are both jointly operated by Emirates Shipping and CMA CGM, also call at Mombasa.
+
+
+
+    On 13th March, CMA CGM announced changes to the port rotation of its Mediterranean – West Africa Service PC North (see: CMA CGM modifies its Mediterranean - West Africa service PC North). The carrier replaced the port call at Nouadhibou with a call at Buchanan on 24th March. The port of Buchanan has been called twice so far and is now removed again from the CMA CGM schedule. Nouadhibou on the other hand is reintroduced to the rotation but will only be called twice out of here sailings. The service deploys 4 vessels on a weekly frequency and a 28 day rotation.
+
+
+
+    Noura Express: Jebel Ali - Khor Al Fakkan - Salalah - Mombasa (new) - Mogadishu - Jebel Ali
+
+
+
+    PC NORTH: Tanger Med - Nouakchott – Freetown – Monrovia – Banjul – Nouadhibou – Tanger Med
+
+
+
+
+
+
+
+",2014-04-07,14:12:19,cma-cgm-modifies-its-africa-services-noura-express-and-pc-no,Container Shipping,"[{'id': '5732', 'attributes': {'assetId': 461663, 'assetName': 'CMA CGM KAILAS', 'assetType': 'vessel'}}]",2014-04-07 14:12:19+00:00,['[2014-04-07_CMA_CGM_Modifies_its_Africa_Services_NOURA_Express_and_PC_North_pdf__Seite_2_von_2_b.jpg](https://media.fleetmon.com/maritimenews/2014-04-07_CMA_CGM_Modifies_its_Africa_Services_NOURA_Express_and_PC_North_pdf__Seite_2_von_2_b.jpg)']
+10004,8280,CMA CGM Modifies its Mediterranean – West Africa service PC North,"As of 24th March CMA CGM modifies the port rotation of its Mediterranean – West Africa service PC NORTH. The service will see the addition of a call at Buchanan port (Liberia) and the suspension of the call at Nouadhibou port, which was called every 21 days. This will make CMA CGM the only carrier to cover Buchanan and it will connect the port to the transshipment hub Tanger-Med. The Buchanan area is known for its production of wood, rubber, palm oil and minerals.
+
+
+
+   The PC NORTH service deploys 4 vessels on a weekly-frequency and 28 day-rotation. It has an average service capacity of 1,580 TEU per week. The new route of the service will be inaugurated by the 1,730 TEU vessel SPERO.
+
+
+
+   PC NORTH: Tanger Med - Nouakchott - Banjul - Freetown - Monrovia - Buchanan (new) - Tanger Med",2014-03-17,12:54:00,cma-cgm-modifies-its-mediterranean-west-africa-service-pc-no,Container Shipping,"[{'id': '5792', 'attributes': {'assetId': 714237, 'assetName': 'MSC NIKOLETA II', 'assetType': 'vessel'}}]",2014-03-17 12:54:00+00:00,[]
+10225,8463,Bulk carrier MARIOLINA DE CARLINI ran aground off Freetown ,"Bulk carrier MARIOLINA DE CARLINI ran aground late in the evening Nov 4 13 off Freetown, Sierra Leone, probably while leaving Freetown. 
+Vessel is still aground, anchored nearby Belgium-flagged offshore tug UNION SOVEREIGN (IMO 9262742) seems to be the salvage vessel, it became known that LOF was already signed.",2013-11-06,02:17:24,bulk-carrier-mariolina-de-carlini-ran-aground-off-freetown,Accidents,"[{'id': '5903', 'attributes': {'assetId': 5871636, 'assetName': 'RADIANT', 'assetType': 'vessel'}}]",2013-11-06 02:17:24+00:00,[]
+10263,8485,"Spanish f/v Rias Baxias Un sank in the Atlantic, crew rescued ","Spanish fishing vessel Rias Baxias Un sank in the morning Oct 18 13 in position 05 46N 022 01W, some 550 nautical miles WSW of Freetown, Sierra Leone. EPIRB was activated at 1055 LT, crew reported abandoning vessel in life rafts due to imminent sinking. Another Spanish fishing vessel Explorer Tres, closest to disaster site, rescued all crew safe and sound – 4 Spanish, 1 Portuguese and 5 Cabo Verdean nationalities. Search and Rescue lasted for several hours, several vessels in the area were engaged. Fishermen were picked up at around 1800 LT. Reason of the sinking unknown.
+
+
+
+Fishing vessel Rias Baxias Un, IMO 9233088, 178 gt, built 2000, flag Spain.",2013-10-19,02:05:37,spanish-fv-rias-baxias-un-sank-in-the-atlantic-crew-rescued,Accidents,[],2013-10-19 02:05:37+00:00,[]
