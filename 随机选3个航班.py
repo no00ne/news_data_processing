@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-# 读取全量数据（原文件为 Tab 分隔）
+# 读取全量数据（原文件为 , 分隔）
 file_path = r"C:\Users\y7327\Documents\WeChat Files\wxid_sk5ejos2ggmv22\FileStorage\File\2025-03\data\data\0_9.csv"
 df = pd.read_csv(file_path, delimiter=",")
 print("全量数据行数：", len(df))
